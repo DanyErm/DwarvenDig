@@ -14,17 +14,39 @@ public class BlockState : MonoBehaviour
     private int _blockId;
 
 
+    [SerializeField] private int[] weights;
+
+
     private void Start()
     {
-        _blockId = Random.Range(1, 5);      // Chances should be changed
-        _spriteRenderer.sprite = blocksSprites[_blockId]; // Random unbroken block
+        _blockId = GetRandomIdByWeight(weights);
+        _spriteRenderer.sprite = blocksSprites[_blockId];
     }
+
 
     public int Destroy()
     {
         _boxCollider2D.isTrigger = true;
         _boxCollider2D.gameObject.layer = LayerMask.NameToLayer("AbsentBlock");
         _spriteRenderer.sprite = blocksSprites[0];
-        return _blockId;
+         return _blockId;
+    }
+
+
+    private int GetRandomIdByWeight(int[] weights)
+    {
+        int totalWeight = 0;
+        foreach (int weight in weights) totalWeight += weight;
+
+        int randomValue = Random.Range(0, totalWeight);
+
+        int cumulative = 0;
+        for (int i = 0; i < weights.Length; i++)
+        {
+            cumulative += weights[i];
+            if (randomValue < cumulative)
+                return i + 1;
+        }
+        return 1;
     }
 }

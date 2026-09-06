@@ -11,14 +11,14 @@ public class DiggingProcess : MonoBehaviour
     [SerializeField] private LayerMask _blockLayer;
     [SerializeField] private LayerMask _charLayer;
     [SerializeField] private LayerMask _absentBlockLayer;
-    //[SerializeField] private Inventory _inventory;
+    [SerializeField] private Inventory _inventory;
 
 
     [Inject] private GameSettings _gameSettings;
 
 
     private Collider2D _collider;
-    private int _blockId;
+    //private int _blockId;
     private BlockState _blockState;
 
     private Vector2[] orthogonalDirections = {
@@ -30,15 +30,13 @@ public class DiggingProcess : MonoBehaviour
 
 
 
-    public int Dig(Vector2 charPos, Vector2 direction)      // In Inventory script this output will be used to refresh
+    public void Dig(Vector2 charPos, Vector2 direction)      // In Inventory script this output will be used to refresh
     {
         if (CheckIfTheresBlock(charPos, direction, _gameSettings.DiggingRange))
         {
-            DestroyBlock(_collider);
+            _inventory.ChangeAmountOfItemInInventory(DestroyBlock(_collider), 1);
             CreateBlocksAround(charPos, direction);
-            return _blockId;
         }
-        return -2;
     }
 
 
@@ -55,10 +53,10 @@ public class DiggingProcess : MonoBehaviour
     }
 
 
-    private void DestroyBlock(Collider2D collider)
+    private int DestroyBlock(Collider2D collider)
     {
         _blockState = collider.gameObject.GetComponent<BlockState>();
-        _blockId = _blockState.Destroy();
+        return _blockState.Destroy();
     }
 
 
@@ -92,7 +90,6 @@ public class DiggingProcess : MonoBehaviour
             collider.gameObject.layer == LayerMask.NameToLayer("Character") ||
             collider.gameObject.layer == LayerMask.NameToLayer("AbsentBlock"))
         {
-            Debug.Log("Can't create block");
             return false;
         }
         return true;
