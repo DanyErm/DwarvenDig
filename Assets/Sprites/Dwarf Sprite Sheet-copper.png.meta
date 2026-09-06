@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: b431cb09fa9a1934ca89bb177007fab5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 732784838043043561
+    second: Dwarf Sprite Sheet-copper_0
+  - first:
+      213: 3723154463448203618
+    second: Dwarf Sprite Sheet-copper_1
+  - first:
+      213: 6559206412448987012
+    second: Dwarf Sprite Sheet-copper_2
+  - first:
+      213: -6333940244782919512
+    second: Dwarf Sprite Sheet-copper_3
+  - first:
+      213: -8231137854443035848
+    second: Dwarf Sprite Sheet-copper_4
+  - first:
+      213: 1698045447321314921
+    second: Dwarf Sprite Sheet-copper_5
+  - first:
+      213: -5820660327835119141
+    second: Dwarf Sprite Sheet-copper_6
+  - first:
+      213: -5955774445337569295
+    second: Dwarf Sprite Sheet-copper_7
+  - first:
+      213: -2080428112596673505
+    second: Dwarf Sprite Sheet-copper_8
+  - first:
+      213: 1062538067284189957
+    second: Dwarf Sprite Sheet-copper_9
+  - first:
+      213: 3524806435433519968
+    second: Dwarf Sprite Sheet-copper_10
+  - first:
+      213: -9196939754691379622
+    second: Dwarf Sprite Sheet-copper_11
+  - first:
+      213: -5541074113978721779
+    second: Dwarf Sprite Sheet-copper_12
+  - first:
+      213: -6713141606175874224
+    second: Dwarf Sprite Sheet-copper_13
+  - first:
+      213: -7692339362708187552
+    second: Dwarf Sprite Sheet-copper_14
+  - first:
+      213: 7027385394196927001
+    second: Dwarf Sprite Sheet-copper_15
+  - first:
+      213: -7246294419529382902
+    second: Dwarf Sprite Sheet-copper_16
+  - first:
+      213: 8615804893142720887
+    second: Dwarf Sprite Sheet-copper_17
+  - first:
+      213: 4986684904536217376
+    second: Dwarf Sprite Sheet-copper_18
+  - first:
+      213: 1090416166007152622
+    second: Dwarf Sprite Sheet-copper_19
+  - first:
+      213: 7806192301054741721
+    second: Dwarf Sprite Sheet-copper_20
+  - first:
+      213: 1640118351491707121
+    second: Dwarf Sprite Sheet-copper_21
+  - first:
+      213: 250497235166469177
+    second: Dwarf Sprite Sheet-copper_22
+  - first:
+      213: 9075245460958192260
+    second: Dwarf Sprite Sheet-copper_23
+  - first:
+      213: 7043309356376455248
+    second: Dwarf Sprite Sheet-copper_24
+  - first:
+      213: -4164833974071295881
+    second: Dwarf Sprite Sheet-copper_25
+  - first:
+      213: 9158759835276562354
+    second: Dwarf Sprite Sheet-copper_26
+  - first:
+      213: 4059220229257451327
+    second: Dwarf Sprite Sheet-copper_27
+  - first:
+      213: -3386158979365894074
+    second: Dwarf Sprite Sheet-copper_28
+  - first:
+      213: -2800962505300824968
+    second: Dwarf Sprite Sheet-copper_29
+  - first:
+      213: 5208559145140251892
+    second: Dwarf Sprite Sheet-copper_30
+  - first:
+      213: -3989245226877415843
+    second: Dwarf Sprite Sheet-copper_31
+  - first:
+      213: -9026122805714588941
+    second: Dwarf Sprite Sheet-copper_32
+  - first:
+      213: -7516402848017730078
+    second: Dwarf Sprite Sheet-copper_33
+  - first:
+      213: 8306823492269671792
+    second: Dwarf Sprite Sheet-copper_34
+  - first:
+      213: 2188508795574601873
+    second: Dwarf Sprite Sheet-copper_35
+  - first:
+      213: 5486196012101515628
+    second: Dwarf Sprite Sheet-copper_36
+  - first:
+      213: -6370059012457959375
+    second: Dwarf Sprite Sheet-copper_37
+  - first:
+      213: 4178585073746456938
+    second: Dwarf Sprite Sheet-copper_38
+  - first:
+      213: -8508325676342791814
+    second: Dwarf Sprite Sheet-copper_39
+  - first:
+      213: -3865662396685298889
+    second: Dwarf Sprite Sheet-copper_40
+  - first:
+      213: -6687562639617181261
+    second: Dwarf Sprite Sheet-copper_41
+  - first:
+      213: -3029918775828454469
+    second: Dwarf Sprite Sheet-copper_42
+  - first:
+      213: -5227458742264864080
+    second: Dwarf Sprite Sheet-copper_43
+  - first:
+      213: -2028147862541103465
+    second: Dwarf Sprite Sheet-copper_44
+  - first:
+      213: -7478228690917131990
+    second: Dwarf Sprite Sheet-copper_45
+  - first:
+      213: -4064285200311498992
+    second: Dwarf Sprite Sheet-copper_46
+  - first:
+      213: 6469786971370386568
+    second: Dwarf Sprite Sheet-copper_47
+  - first:
+      213: 5533362220189572440
+    second: Dwarf Sprite Sheet-copper_48
+  - first:
+      213: -8268239530774737538
+    second: Dwarf Sprite Sheet-copper_49
+  - first:
+      213: 2539143501463566080
+    second: Dwarf Sprite Sheet-copper_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 162
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e609508def5b2a00800000000000000
+      internalID: 732784838043043561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 162
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2618db5224d4ba330800000000000000
+      internalID: 3723154463448203618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 162
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4877c7eda7bf60b50800000000000000
+      internalID: 6559206412448987012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 162
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0d921f7e25918a0800000000000000
+      internalID: -6333940244782919512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 162
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833e6a85bbf15cd80800000000000000
+      internalID: -8231137854443035848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9666e04765ba09710800000000000000
+      internalID: 1698045447321314921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 168
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1dd21654cd83fa0800000000000000
+      internalID: -5820660327835119141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 134
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f71e4f62b6d85da0800000000000000
+      internalID: -5955774445337569295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 134
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c50f777a5d023e0800000000000000
+      internalID: -2080428112596673505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 134
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503edcc1eb4eebe00800000000000000
+      internalID: 1062538067284189957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 131
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b960e17c0aae030800000000000000
+      internalID: 3524806435433519968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 133
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eb3f44508ed5080800000000000000
+      internalID: -9196939754691379622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 130
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a9f2283762a13b0800000000000000
+      internalID: -5541074113978721779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 131
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053edf4e64126d2a0800000000000000
+      internalID: -6713141606175874224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 132
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066160afa125f3590800000000000000
+      internalID: -7692339362708187552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 98
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91250e888c9468160800000000000000
+      internalID: 7027385394196927001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a044e023e9dff6b90800000000000000
+      internalID: -7246294419529382902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 102
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77128ddd6ec719770800000000000000
+      internalID: 8615804893142720887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 102
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0271fa50083443540800000000000000
+      internalID: 4986684904536217376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 99
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef1338c9bfe12f00800000000000000
+      internalID: 1090416166007152622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcc1c0f98a255c60800000000000000
+      internalID: 7806192301054741721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0334273fed2c610800000000000000
+      internalID: 1640118351491707121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 74
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c905f78e1f97300800000000000000
+      internalID: 250497235166469177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 74
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482a3edf9afb1fd70800000000000000
+      internalID: 9075245460958192260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058f006ea8cdeb160800000000000000
+      internalID: 7043309356376455248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 74
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770800b11998336c0800000000000000
+      internalID: -4164833974071295881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 63
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf46c48b837a1f70800000000000000
+      internalID: 9158759835276562354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 65
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3758f5ba4f355830800000000000000
+      internalID: 4059220229257451327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64885e15952f101d0800000000000000
+      internalID: -3386158979365894074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c2b5a017bf029d0800000000000000
+      internalID: -2800962505300824968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc62b542f4884840800000000000000
+      internalID: 5208559145140251892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e8c022a9a53a8c0800000000000000
+      internalID: -3989245226877415843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa64527125ccb280800000000000000
+      internalID: -9026122805714588941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 33
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e53b2fee6f50b790800000000000000
+      internalID: -7516402848017730078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 33
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0758a9c64f3c74370800000000000000
+      internalID: 8306823492269671792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 49
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198ca0487252f5e10800000000000000
+      internalID: 2188508795574601873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 48
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69b975b432e22c40800000000000000
+      internalID: 5486196012101515628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130fa2404110997a0800000000000000
+      internalID: -6370059012457959375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6138684cf05df930800000000000000
+      internalID: 4178585073746456938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71b04c50ea5ce980800000000000000
+      internalID: -8508325676342791814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_40
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733dcf708886a5ac0800000000000000
+      internalID: -3865662396685298889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9b17426310133a0800000000000000
+      internalID: -6687562639617181261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_42
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb365743de093f5d0800000000000000
+      internalID: -3029918775828454469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 39
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2ea4d58f55477b0800000000000000
+      internalID: -5227458742264864080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e054db3429ad3e0800000000000000
+      internalID: -2028147862541103465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29ffb080aef73890800000000000000
+      internalID: -7478228690917131990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 7
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0174e81d422c897c0800000000000000
+      internalID: -4064285200311498992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8847bf8d8fc49c950800000000000000
+      internalID: 6469786971370386568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_48
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d57fb4f937acc40800000000000000
+      internalID: 5533362220189572440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 7
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d445a24ff414d80800000000000000
+      internalID: -8268239530774737538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-copper_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0073a76cf89dc3320800000000000000
+      internalID: 2539143501463566080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf Sprite Sheet-copper_0: 732784838043043561
+      Dwarf Sprite Sheet-copper_1: 3723154463448203618
+      Dwarf Sprite Sheet-copper_10: 3524806435433519968
+      Dwarf Sprite Sheet-copper_11: -9196939754691379622
+      Dwarf Sprite Sheet-copper_12: -5541074113978721779
+      Dwarf Sprite Sheet-copper_13: -6713141606175874224
+      Dwarf Sprite Sheet-copper_14: -7692339362708187552
+      Dwarf Sprite Sheet-copper_15: 7027385394196927001
+      Dwarf Sprite Sheet-copper_16: -7246294419529382902
+      Dwarf Sprite Sheet-copper_17: 8615804893142720887
+      Dwarf Sprite Sheet-copper_18: 4986684904536217376
+      Dwarf Sprite Sheet-copper_19: 1090416166007152622
+      Dwarf Sprite Sheet-copper_2: 6559206412448987012
+      Dwarf Sprite Sheet-copper_20: 7806192301054741721
+      Dwarf Sprite Sheet-copper_21: 1640118351491707121
+      Dwarf Sprite Sheet-copper_22: 250497235166469177
+      Dwarf Sprite Sheet-copper_23: 9075245460958192260
+      Dwarf Sprite Sheet-copper_24: 7043309356376455248
+      Dwarf Sprite Sheet-copper_25: -4164833974071295881
+      Dwarf Sprite Sheet-copper_26: 9158759835276562354
+      Dwarf Sprite Sheet-copper_27: 4059220229257451327
+      Dwarf Sprite Sheet-copper_28: -3386158979365894074
+      Dwarf Sprite Sheet-copper_29: -2800962505300824968
+      Dwarf Sprite Sheet-copper_3: -6333940244782919512
+      Dwarf Sprite Sheet-copper_30: 5208559145140251892
+      Dwarf Sprite Sheet-copper_31: -3989245226877415843
+      Dwarf Sprite Sheet-copper_32: -9026122805714588941
+      Dwarf Sprite Sheet-copper_33: -7516402848017730078
+      Dwarf Sprite Sheet-copper_34: 8306823492269671792
+      Dwarf Sprite Sheet-copper_35: 2188508795574601873
+      Dwarf Sprite Sheet-copper_36: 5486196012101515628
+      Dwarf Sprite Sheet-copper_37: -6370059012457959375
+      Dwarf Sprite Sheet-copper_38: 4178585073746456938
+      Dwarf Sprite Sheet-copper_39: -8508325676342791814
+      Dwarf Sprite Sheet-copper_4: -8231137854443035848
+      Dwarf Sprite Sheet-copper_40: -3865662396685298889
+      Dwarf Sprite Sheet-copper_41: -6687562639617181261
+      Dwarf Sprite Sheet-copper_42: -3029918775828454469
+      Dwarf Sprite Sheet-copper_43: -5227458742264864080
+      Dwarf Sprite Sheet-copper_44: -2028147862541103465
+      Dwarf Sprite Sheet-copper_45: -7478228690917131990
+      Dwarf Sprite Sheet-copper_46: -4064285200311498992
+      Dwarf Sprite Sheet-copper_47: 6469786971370386568
+      Dwarf Sprite Sheet-copper_48: 5533362220189572440
+      Dwarf Sprite Sheet-copper_49: -8268239530774737538
+      Dwarf Sprite Sheet-copper_5: 1698045447321314921
+      Dwarf Sprite Sheet-copper_50: 2539143501463566080
+      Dwarf Sprite Sheet-copper_6: -5820660327835119141
+      Dwarf Sprite Sheet-copper_7: -5955774445337569295
+      Dwarf Sprite Sheet-copper_8: -2080428112596673505
+      Dwarf Sprite Sheet-copper_9: 1062538067284189957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

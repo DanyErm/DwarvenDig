@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 22dcfdbefc7f4464e8e55ee24b18f83e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2599068420368749509
+    second: Dwarf Sprite Sheet-gem_0
+  - first:
+      213: 825999233404069314
+    second: Dwarf Sprite Sheet-gem_1
+  - first:
+      213: -7733125859406772063
+    second: Dwarf Sprite Sheet-gem_2
+  - first:
+      213: -8268783776599903385
+    second: Dwarf Sprite Sheet-gem_3
+  - first:
+      213: 6193629051422777287
+    second: Dwarf Sprite Sheet-gem_4
+  - first:
+      213: 760927320413852755
+    second: Dwarf Sprite Sheet-gem_5
+  - first:
+      213: 7156883140098611353
+    second: Dwarf Sprite Sheet-gem_6
+  - first:
+      213: -219886834729070333
+    second: Dwarf Sprite Sheet-gem_7
+  - first:
+      213: 3416085262135265772
+    second: Dwarf Sprite Sheet-gem_8
+  - first:
+      213: 399152286664272607
+    second: Dwarf Sprite Sheet-gem_9
+  - first:
+      213: 1662174015654689886
+    second: Dwarf Sprite Sheet-gem_10
+  - first:
+      213: -6371007939988290
+    second: Dwarf Sprite Sheet-gem_11
+  - first:
+      213: 7421357403712552812
+    second: Dwarf Sprite Sheet-gem_12
+  - first:
+      213: 7793278192049820228
+    second: Dwarf Sprite Sheet-gem_13
+  - first:
+      213: -5994239644453702561
+    second: Dwarf Sprite Sheet-gem_14
+  - first:
+      213: -5383072061169763682
+    second: Dwarf Sprite Sheet-gem_15
+  - first:
+      213: 6357418511637067980
+    second: Dwarf Sprite Sheet-gem_16
+  - first:
+      213: 8849813274840907504
+    second: Dwarf Sprite Sheet-gem_17
+  - first:
+      213: 2069051118069109948
+    second: Dwarf Sprite Sheet-gem_18
+  - first:
+      213: -9193356808861046377
+    second: Dwarf Sprite Sheet-gem_19
+  - first:
+      213: -6452651234305719269
+    second: Dwarf Sprite Sheet-gem_20
+  - first:
+      213: 4380421499673957556
+    second: Dwarf Sprite Sheet-gem_21
+  - first:
+      213: 6632303222942806611
+    second: Dwarf Sprite Sheet-gem_22
+  - first:
+      213: 1229769190668984893
+    second: Dwarf Sprite Sheet-gem_23
+  - first:
+      213: -4112279838113837569
+    second: Dwarf Sprite Sheet-gem_24
+  - first:
+      213: 7837544828079789769
+    second: Dwarf Sprite Sheet-gem_25
+  - first:
+      213: 6120090363882149350
+    second: Dwarf Sprite Sheet-gem_26
+  - first:
+      213: 1270347517000934252
+    second: Dwarf Sprite Sheet-gem_27
+  - first:
+      213: -6362513700590762952
+    second: Dwarf Sprite Sheet-gem_28
+  - first:
+      213: -8279785960944435291
+    second: Dwarf Sprite Sheet-gem_29
+  - first:
+      213: 2957616556665466789
+    second: Dwarf Sprite Sheet-gem_30
+  - first:
+      213: 1821586908325355153
+    second: Dwarf Sprite Sheet-gem_31
+  - first:
+      213: 6800037274773776312
+    second: Dwarf Sprite Sheet-gem_32
+  - first:
+      213: 3760301224779261068
+    second: Dwarf Sprite Sheet-gem_33
+  - first:
+      213: 5931437094212584009
+    second: Dwarf Sprite Sheet-gem_34
+  - first:
+      213: 3482929480807111949
+    second: Dwarf Sprite Sheet-gem_35
+  - first:
+      213: -7973954653814938965
+    second: Dwarf Sprite Sheet-gem_36
+  - first:
+      213: -2501741636179679613
+    second: Dwarf Sprite Sheet-gem_37
+  - first:
+      213: 3929476621908133246
+    second: Dwarf Sprite Sheet-gem_38
+  - first:
+      213: 512672236348228035
+    second: Dwarf Sprite Sheet-gem_39
+  - first:
+      213: -6661861175883674698
+    second: Dwarf Sprite Sheet-gem_40
+  - first:
+      213: -7400936004137560046
+    second: Dwarf Sprite Sheet-gem_41
+  - first:
+      213: 5714480564656277147
+    second: Dwarf Sprite Sheet-gem_42
+  - first:
+      213: -2663174918614368120
+    second: Dwarf Sprite Sheet-gem_43
+  - first:
+      213: -7232413892296900298
+    second: Dwarf Sprite Sheet-gem_44
+  - first:
+      213: 1152834688114348804
+    second: Dwarf Sprite Sheet-gem_45
+  - first:
+      213: -7103696997426183459
+    second: Dwarf Sprite Sheet-gem_46
+  - first:
+      213: -5292768460775285517
+    second: Dwarf Sprite Sheet-gem_47
+  - first:
+      213: 1783250780655138820
+    second: Dwarf Sprite Sheet-gem_48
+  - first:
+      213: 7928128333304446173
+    second: Dwarf Sprite Sheet-gem_49
+  - first:
+      213: 7501244666437511545
+    second: Dwarf Sprite Sheet-gem_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 162
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c2cf8ca014eebd0800000000000000
+      internalID: -2599068420368749509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 162
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c56bcb2de9867b00800000000000000
+      internalID: 825999233404069314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 162
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a80ca2b00b6ea490800000000000000
+      internalID: -7733125859406772063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 162
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763ff3f07f06f3d80800000000000000
+      internalID: -8268783776599903385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 162
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf18989ec034f550800000000000000
+      internalID: 6193629051422777287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3545829cd5b5f8a00800000000000000
+      internalID: 760927320413852755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 168
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9985f801c4b525360800000000000000
+      internalID: 7156883140098611353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 134
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301503db61ec2fcf0800000000000000
+      internalID: -219886834729070333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 134
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9050c527f586f20800000000000000
+      internalID: 3416085262135265772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 134
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaa8e1d3e21a8500800000000000000
+      internalID: 399152286664272607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 131
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c7bfde57a311710800000000000000
+      internalID: 1662174015654689886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 133
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb430ee1a9d59eff0800000000000000
+      internalID: -6371007939988290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 130
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f70871d35fdf660800000000000000
+      internalID: 7421357403712552812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 131
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4429de0a939472c60800000000000000
+      internalID: 7793278192049820228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 132
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54f5cd5dce20dca0800000000000000
+      internalID: -5994239644453702561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 98
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a75a92b7c7b45b0800000000000000
+      internalID: -5383072061169763682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8be9a04761a3850800000000000000
+      internalID: 6357418511637067980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 102
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0febd6ff84ad0da70800000000000000
+      internalID: 8849813274840907504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 102
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb452a2970fb6bc10800000000000000
+      internalID: 2069051118069109948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 99
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7992b6ad0b2aa6080800000000000000
+      internalID: -9193356808861046377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14c8b7d3e39376a0800000000000000
+      internalID: -6452651234305719269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4dc8e35226acc30800000000000000
+      internalID: 4380421499673957556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 74
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3523f2e44acaa0c50800000000000000
+      internalID: 6632303222942806611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 74
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d326b853094011110800000000000000
+      internalID: 1229769190668984893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd4938664f3ee6c0800000000000000
+      internalID: -4112279838113837569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 74
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c655ecfe7d84cc60800000000000000
+      internalID: 7837544828079789769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 63
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e59c74a2cdeee450800000000000000
+      internalID: 6120090363882149350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 65
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63e32c065e21a110800000000000000
+      internalID: 1270347517000934252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8344bb5df7fc3b7a0800000000000000
+      internalID: -6362513700590762952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aff3a5698a481d80800000000000000
+      internalID: -8279785960944435291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afebd196909b0920800000000000000
+      internalID: 2957616556665466789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e1c3654a3974910800000000000000
+      internalID: 1821586908325355153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b76e4e8fd59e5e50800000000000000
+      internalID: 6800037274773776312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 33
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c842f6f7a064f2430800000000000000
+      internalID: 3760301224779261068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 33
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942cd107c92b05250800000000000000
+      internalID: 5931437094212584009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 49
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d5e31d8e9d55030800000000000000
+      internalID: 3482929480807111949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 48
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2a94c7d72d65190800000000000000
+      internalID: -7973954653814938965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386a4b79c37084dd0800000000000000
+      internalID: -2501741636179679613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75490a1b2e488630800000000000000
+      internalID: 3929476621908133246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1cdb5cea06d1700800000000000000
+      internalID: 512672236348228035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_40
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbcc7c7e805c83a0800000000000000
+      internalID: -6661861175883674698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2185bf38ae79a4990800000000000000
+      internalID: -7400936004137560046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_42
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9606340cc9ed4f40800000000000000
+      internalID: 5714480564656277147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 39
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c24985808a0bd0800000000000000
+      internalID: -2663174918614368120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6310b0942ed41ab90800000000000000
+      internalID: -7232413892296900298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403ddc57a01bfff00800000000000000
+      internalID: 1152834688114348804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 7
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd24764c7399a6d90800000000000000
+      internalID: -7103696997426183459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc1911902f4c86b0800000000000000
+      internalID: -5292768460775285517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_48
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408336e03216fb810800000000000000
+      internalID: 1783250780655138820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 7
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc3250d6be560e60800000000000000
+      internalID: 7928128333304446173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gem_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9792d44e746c91860800000000000000
+      internalID: 7501244666437511545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf Sprite Sheet-gem_0: -2599068420368749509
+      Dwarf Sprite Sheet-gem_1: 825999233404069314
+      Dwarf Sprite Sheet-gem_10: 1662174015654689886
+      Dwarf Sprite Sheet-gem_11: -6371007939988290
+      Dwarf Sprite Sheet-gem_12: 7421357403712552812
+      Dwarf Sprite Sheet-gem_13: 7793278192049820228
+      Dwarf Sprite Sheet-gem_14: -5994239644453702561
+      Dwarf Sprite Sheet-gem_15: -5383072061169763682
+      Dwarf Sprite Sheet-gem_16: 6357418511637067980
+      Dwarf Sprite Sheet-gem_17: 8849813274840907504
+      Dwarf Sprite Sheet-gem_18: 2069051118069109948
+      Dwarf Sprite Sheet-gem_19: -9193356808861046377
+      Dwarf Sprite Sheet-gem_2: -7733125859406772063
+      Dwarf Sprite Sheet-gem_20: -6452651234305719269
+      Dwarf Sprite Sheet-gem_21: 4380421499673957556
+      Dwarf Sprite Sheet-gem_22: 6632303222942806611
+      Dwarf Sprite Sheet-gem_23: 1229769190668984893
+      Dwarf Sprite Sheet-gem_24: -4112279838113837569
+      Dwarf Sprite Sheet-gem_25: 7837544828079789769
+      Dwarf Sprite Sheet-gem_26: 6120090363882149350
+      Dwarf Sprite Sheet-gem_27: 1270347517000934252
+      Dwarf Sprite Sheet-gem_28: -6362513700590762952
+      Dwarf Sprite Sheet-gem_29: -8279785960944435291
+      Dwarf Sprite Sheet-gem_3: -8268783776599903385
+      Dwarf Sprite Sheet-gem_30: 2957616556665466789
+      Dwarf Sprite Sheet-gem_31: 1821586908325355153
+      Dwarf Sprite Sheet-gem_32: 6800037274773776312
+      Dwarf Sprite Sheet-gem_33: 3760301224779261068
+      Dwarf Sprite Sheet-gem_34: 5931437094212584009
+      Dwarf Sprite Sheet-gem_35: 3482929480807111949
+      Dwarf Sprite Sheet-gem_36: -7973954653814938965
+      Dwarf Sprite Sheet-gem_37: -2501741636179679613
+      Dwarf Sprite Sheet-gem_38: 3929476621908133246
+      Dwarf Sprite Sheet-gem_39: 512672236348228035
+      Dwarf Sprite Sheet-gem_4: 6193629051422777287
+      Dwarf Sprite Sheet-gem_40: -6661861175883674698
+      Dwarf Sprite Sheet-gem_41: -7400936004137560046
+      Dwarf Sprite Sheet-gem_42: 5714480564656277147
+      Dwarf Sprite Sheet-gem_43: -2663174918614368120
+      Dwarf Sprite Sheet-gem_44: -7232413892296900298
+      Dwarf Sprite Sheet-gem_45: 1152834688114348804
+      Dwarf Sprite Sheet-gem_46: -7103696997426183459
+      Dwarf Sprite Sheet-gem_47: -5292768460775285517
+      Dwarf Sprite Sheet-gem_48: 1783250780655138820
+      Dwarf Sprite Sheet-gem_49: 7928128333304446173
+      Dwarf Sprite Sheet-gem_5: 760927320413852755
+      Dwarf Sprite Sheet-gem_50: 7501244666437511545
+      Dwarf Sprite Sheet-gem_6: 7156883140098611353
+      Dwarf Sprite Sheet-gem_7: -219886834729070333
+      Dwarf Sprite Sheet-gem_8: 3416085262135265772
+      Dwarf Sprite Sheet-gem_9: 399152286664272607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

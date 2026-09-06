@@ -30,12 +30,13 @@ public class DiggingProcess : MonoBehaviour
 
 
 
-    public void Dig(Vector2 charPos, Vector2 direction)      // In Inventory script this output will be used to refresh
+    public void Dig(Vector2 charPos, Vector2 direction)
     {
         if (CheckIfTheresBlock(charPos, direction, _gameSettings.DiggingRange))
         {
             _inventory.ChangeAmountOfItemInInventory(DestroyBlock(_collider), 1);
             CreateBlocksAround(charPos, direction);
+            Destroy(FindUnknownBlock(_collider.transform.position));
         }
     }
 
@@ -76,7 +77,7 @@ public class DiggingProcess : MonoBehaviour
 
     private bool CanCreateBlock(Collider2D collider, Vector2 orthogonalDirection)
     {
-        if (_collider.gameObject.transform.position.y >= 0 && orthogonalDirection == Vector2.up)
+        if (_collider.gameObject.transform.position.y >= -2.35 && orthogonalDirection == Vector2.up)
         {
             return false;
         }
@@ -99,5 +100,16 @@ public class DiggingProcess : MonoBehaviour
     private void CreateBlock(Vector2 blockPos)
     {
         Instantiate(_blockPrefab, blockPos, Quaternion.identity, _blocksParent);
+    }
+
+
+    public GameObject FindUnknownBlock(Vector2 worldPosition)
+    {
+        Collider2D hit = Physics2D.OverlapPoint(worldPosition, LayerMask.GetMask("UnknownBlock"));
+        if (hit != null)
+        {
+            return hit.gameObject;
+        }
+        return null;
     }
 }

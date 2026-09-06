@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameSettings
   walkSpeed: 5
   jumpVelocity: 8
+  climbSpeed: 7
   blockSize: 1
   diggingRange: 1

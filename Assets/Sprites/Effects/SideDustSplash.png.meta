@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 2070dc50ba515004ab366f50e7c574a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1995237515404739065
+    second: SideDustSplash_0
+  - first:
+      213: -8433384676908671446
+    second: SideDustSplash_1
+  - first:
+      213: -2984621402375300136
+    second: SideDustSplash_2
+  - first:
+      213: 507996583740760830
+    second: SideDustSplash_3
+  - first:
+      213: 2603073117882186818
+    second: SideDustSplash_4
+  - first:
+      213: 4510997559229467091
+    second: SideDustSplash_5
+  - first:
+      213: 6368276272013090073
+    second: SideDustSplash_6
+  - first:
+      213: -1876591404304464987
+    second: SideDustSplash_7
+  - first:
+      213: -2254806034763554847
+    second: SideDustSplash_8
+  - first:
+      213: 388906685738614380
+    second: SideDustSplash_9
+  - first:
+      213: 6497946535895606067
+    second: SideDustSplash_10
+  - first:
+      213: 1231899409229767987
+    second: SideDustSplash_11
+  - first:
+      213: -603241528181488735
+    second: SideDustSplash_12
+  - first:
+      213: 6548274416765039786
+    second: SideDustSplash_13
+  - first:
+      213: -7466916042925787966
+    second: SideDustSplash_14
+  - first:
+      213: 7481156571303127122
+    second: SideDustSplash_15
+  - first:
+      213: 7527161659638566121
+    second: SideDustSplash_16
+  - first:
+      213: -3884247017813865836
+    second: SideDustSplash_17
+  - first:
+      213: 8732723514358325685
+    second: SideDustSplash_18
+  - first:
+      213: 2485862709022780522
+    second: SideDustSplash_19
+  - first:
+      213: -6455181519483633884
+    second: SideDustSplash_20
+  - first:
+      213: -6155547121188981990
+    second: SideDustSplash_21
+  - first:
+      213: -4611720573352428208
+    second: SideDustSplash_22
+  - first:
+      213: 3777197791791218811
+    second: SideDustSplash_23
+  - first:
+      213: 946173844645118249
+    second: SideDustSplash_24
+  - first:
+      213: -5011025617473127438
+    second: SideDustSplash_25
+  - first:
+      213: -8603972879267595853
+    second: SideDustSplash_26
+  - first:
+      213: 3199977137367555354
+    second: SideDustSplash_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SideDustSplash_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f18b34f2f180bb10800000000000000
+      internalID: 1995237515404739065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ed2ae715996fa80800000000000000
+      internalID: -8433384676908671446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 14
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db5462d5ae7496d0800000000000000
+      internalID: -2984621402375300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 7
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2eaf09334cc0700800000000000000
+      internalID: 507996583740760830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 7
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c7cb38539ff1420800000000000000
+      internalID: 2603073117882186818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 7
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9c68c31684a9e30800000000000000
+      internalID: 4510997559229467091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 14
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d93e06789a06850800000000000000
+      internalID: 6368276272013090073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 8
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a381e57f0205f5e0800000000000000
+      internalID: -1876591404304464987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 14
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efd28c9bd155b0e0800000000000000
+      internalID: -2254806034763554847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e7936f19ca56500800000000000000
+      internalID: 388906685738614380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333a98162f75d2a50800000000000000
+      internalID: 6497946535895606067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 18
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335672e5cf5981110800000000000000
+      internalID: 1231899409229767987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_12
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 15
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a38af6b60bd0a7f0800000000000000
+      internalID: -603241528181488735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4fe0743e420ea50800000000000000
+      internalID: 6548274416765039786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 10
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c43ebd9b6f206890800000000000000
+      internalID: -7466916042925787966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 18
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2582a95c34862d760800000000000000
+      internalID: 7481156571303127122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 7
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec42b916a9d57860800000000000000
+      internalID: 7527161659638566121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_17
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 20
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a855bbae1681ac0800000000000000
+      internalID: -3884247017813865836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_18
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 12
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b16703b4cdd03970800000000000000
+      internalID: 8732723514358325685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 8
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c61b396fe8f7220800000000000000
+      internalID: 2485862709022780522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 22
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ff28aeb969a66a0800000000000000
+      internalID: -6455181519483633884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 15
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a133a5bb18a139aa0800000000000000
+      internalID: -6155547121188981990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_22
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 10
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05db7fd8290efffb0800000000000000
+      internalID: -4611720573352428208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_23
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 23
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b700b12116d4b6430800000000000000
+      internalID: 3777197791791218811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_24
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 17
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92186d1491c712d00800000000000000
+      internalID: 946173844645118249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_25
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 12
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbb12e10c2457ab0800000000000000
+      internalID: -5011025617473127438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_26
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 19
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9f82a804c889880800000000000000
+      internalID: -8603972879267595853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideDustSplash_27
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 15
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d1a22904a986c20800000000000000
+      internalID: 3199977137367555354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SideDustSplash_0: 1995237515404739065
+      SideDustSplash_1: -8433384676908671446
+      SideDustSplash_10: 6497946535895606067
+      SideDustSplash_11: 1231899409229767987
+      SideDustSplash_12: -603241528181488735
+      SideDustSplash_13: 6548274416765039786
+      SideDustSplash_14: -7466916042925787966
+      SideDustSplash_15: 7481156571303127122
+      SideDustSplash_16: 7527161659638566121
+      SideDustSplash_17: -3884247017813865836
+      SideDustSplash_18: 8732723514358325685
+      SideDustSplash_19: 2485862709022780522
+      SideDustSplash_2: -2984621402375300136
+      SideDustSplash_20: -6455181519483633884
+      SideDustSplash_21: -6155547121188981990
+      SideDustSplash_22: -4611720573352428208
+      SideDustSplash_23: 3777197791791218811
+      SideDustSplash_24: 946173844645118249
+      SideDustSplash_25: -5011025617473127438
+      SideDustSplash_26: -8603972879267595853
+      SideDustSplash_27: 3199977137367555354
+      SideDustSplash_3: 507996583740760830
+      SideDustSplash_4: 2603073117882186818
+      SideDustSplash_5: 4510997559229467091
+      SideDustSplash_6: 6368276272013090073
+      SideDustSplash_7: -1876591404304464987
+      SideDustSplash_8: -2254806034763554847
+      SideDustSplash_9: 388906685738614380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 6b0e256cb08df96489cec85d39bb26a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3525832149785424724
+    second: Dwarf Sprite Sheet-gold_0
+  - first:
+      213: 5508211372076336018
+    second: Dwarf Sprite Sheet-gold_1
+  - first:
+      213: -1647241421409984685
+    second: Dwarf Sprite Sheet-gold_2
+  - first:
+      213: -2285953604524798952
+    second: Dwarf Sprite Sheet-gold_3
+  - first:
+      213: 8272074543478154902
+    second: Dwarf Sprite Sheet-gold_4
+  - first:
+      213: 3740589969145744844
+    second: Dwarf Sprite Sheet-gold_5
+  - first:
+      213: -8459936200516458754
+    second: Dwarf Sprite Sheet-gold_6
+  - first:
+      213: -4366975070457367975
+    second: Dwarf Sprite Sheet-gold_7
+  - first:
+      213: 2838993292908068029
+    second: Dwarf Sprite Sheet-gold_8
+  - first:
+      213: 8868308300198840982
+    second: Dwarf Sprite Sheet-gold_9
+  - first:
+      213: 1004964429947114743
+    second: Dwarf Sprite Sheet-gold_10
+  - first:
+      213: -8011944451718606790
+    second: Dwarf Sprite Sheet-gold_11
+  - first:
+      213: -1958320513116584156
+    second: Dwarf Sprite Sheet-gold_12
+  - first:
+      213: 4609781159045886321
+    second: Dwarf Sprite Sheet-gold_13
+  - first:
+      213: -2523373093914182055
+    second: Dwarf Sprite Sheet-gold_14
+  - first:
+      213: 7088136526985533148
+    second: Dwarf Sprite Sheet-gold_15
+  - first:
+      213: 2836759372175060888
+    second: Dwarf Sprite Sheet-gold_16
+  - first:
+      213: 6853360939776320829
+    second: Dwarf Sprite Sheet-gold_17
+  - first:
+      213: -5783699767058771049
+    second: Dwarf Sprite Sheet-gold_18
+  - first:
+      213: 5777075767991663624
+    second: Dwarf Sprite Sheet-gold_19
+  - first:
+      213: -3656534284916760751
+    second: Dwarf Sprite Sheet-gold_20
+  - first:
+      213: -3066773781423565446
+    second: Dwarf Sprite Sheet-gold_21
+  - first:
+      213: 6141198495452134499
+    second: Dwarf Sprite Sheet-gold_22
+  - first:
+      213: -7441402858612966071
+    second: Dwarf Sprite Sheet-gold_23
+  - first:
+      213: 1752456117625071908
+    second: Dwarf Sprite Sheet-gold_24
+  - first:
+      213: 7134299680629836388
+    second: Dwarf Sprite Sheet-gold_25
+  - first:
+      213: -113018617715817109
+    second: Dwarf Sprite Sheet-gold_26
+  - first:
+      213: 3927746569304301256
+    second: Dwarf Sprite Sheet-gold_27
+  - first:
+      213: -262492072157555265
+    second: Dwarf Sprite Sheet-gold_28
+  - first:
+      213: -2612011992798671355
+    second: Dwarf Sprite Sheet-gold_29
+  - first:
+      213: -8185571136049159961
+    second: Dwarf Sprite Sheet-gold_30
+  - first:
+      213: -5339236874031775459
+    second: Dwarf Sprite Sheet-gold_31
+  - first:
+      213: 3961609007519311979
+    second: Dwarf Sprite Sheet-gold_32
+  - first:
+      213: 5871912254075100473
+    second: Dwarf Sprite Sheet-gold_33
+  - first:
+      213: -1311466646702746136
+    second: Dwarf Sprite Sheet-gold_34
+  - first:
+      213: -1193520080969030795
+    second: Dwarf Sprite Sheet-gold_35
+  - first:
+      213: 3301296929549119424
+    second: Dwarf Sprite Sheet-gold_36
+  - first:
+      213: -5672298788685549153
+    second: Dwarf Sprite Sheet-gold_37
+  - first:
+      213: 564533202122237588
+    second: Dwarf Sprite Sheet-gold_38
+  - first:
+      213: 4415291439527200671
+    second: Dwarf Sprite Sheet-gold_39
+  - first:
+      213: 721366857762149373
+    second: Dwarf Sprite Sheet-gold_40
+  - first:
+      213: -946300865506067251
+    second: Dwarf Sprite Sheet-gold_41
+  - first:
+      213: 3764830000853946545
+    second: Dwarf Sprite Sheet-gold_42
+  - first:
+      213: -37415575821806532
+    second: Dwarf Sprite Sheet-gold_43
+  - first:
+      213: -4552995109457667228
+    second: Dwarf Sprite Sheet-gold_44
+  - first:
+      213: -8158255087757855366
+    second: Dwarf Sprite Sheet-gold_45
+  - first:
+      213: 3366781818174027529
+    second: Dwarf Sprite Sheet-gold_46
+  - first:
+      213: 5954901414637726930
+    second: Dwarf Sprite Sheet-gold_47
+  - first:
+      213: 5639370756427412606
+    second: Dwarf Sprite Sheet-gold_48
+  - first:
+      213: -4117187103698584004
+    second: Dwarf Sprite Sheet-gold_49
+  - first:
+      213: -5961945893042101207
+    second: Dwarf Sprite Sheet-gold_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 162
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac4366275ab11fc0800000000000000
+      internalID: -3525832149785424724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 162
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29380642f09117c40800000000000000
+      internalID: 5508211372076336018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 162
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f5c8997a2d329e0800000000000000
+      internalID: -1647241421409984685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 162
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c8645ee49a640e0800000000000000
+      internalID: -2285953604524798952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 162
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696219f48ff4cc270800000000000000
+      internalID: 8272074543478154902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd425922ce39e330800000000000000
+      internalID: 3740589969145744844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 168
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6afb929d4489a80800000000000000
+      internalID: -8459936200516458754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 134
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952f6668f436563c0800000000000000
+      internalID: -4366975070457367975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 134
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc7087bb51266720800000000000000
+      internalID: 2838993292908068029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 134
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a0008a96f821b70800000000000000
+      internalID: 8868308300198840982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 131
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f496e213d952fd00800000000000000
+      internalID: 1004964429947114743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 133
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30962368fadfc090800000000000000
+      internalID: -8011944451718606790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 130
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42743537ed5a2d4e0800000000000000
+      internalID: -1958320513116584156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 131
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171f73d5a8b39ff30800000000000000
+      internalID: 4609781159045886321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 132
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e777d5a8d2bfcd0800000000000000
+      internalID: -2523373093914182055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 98
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd69172ed9e1e5260800000000000000
+      internalID: 7088136526985533148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 100
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f21c38e913e5720800000000000000
+      internalID: 2836759372175060888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 102
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35a7ecc6770c1f50800000000000000
+      internalID: 6853360939776320829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 102
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793d3f884bb2cbfa0800000000000000
+      internalID: -5783699767058771049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 99
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cf8af7dcb4c2050800000000000000
+      internalID: 5777075767991663624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fdf76e071614dc0800000000000000
+      internalID: -3656534284916760751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7554c78e71a075d0800000000000000
+      internalID: -3066773781423565446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 74
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c76908e7be93550800000000000000
+      internalID: 6141198495452134499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 74
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d3ccdb683dab890800000000000000
+      internalID: -7441402858612966071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429a087dd89f15810800000000000000
+      internalID: 1752456117625071908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 74
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46acf19a2cf120360800000000000000
+      internalID: 7134299680629836388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 63
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b650b0e7a2a7e6ef0800000000000000
+      internalID: -113018617715817109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 65
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce5427d1b8228630800000000000000
+      internalID: 3927746569304301256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb551b2e9d07b5cf0800000000000000
+      internalID: -262492072157555265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ecc2c7ee440cbd0800000000000000
+      internalID: -2612011992798671355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e06918bb62076e80800000000000000
+      internalID: -8185571136049159961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d114baff95837e5b0800000000000000
+      internalID: -5339236874031775459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b682d2027667af630800000000000000
+      internalID: 3961609007519311979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 33
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dd86895193d7150800000000000000
+      internalID: 5871912254075100473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 33
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e59284880cbccde0800000000000000
+      internalID: -1311466646702746136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 49
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573ab855fc3cf6fe0800000000000000
+      internalID: -1193520080969030795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 48
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfecdff01090dd20800000000000000
+      internalID: 3301296929549119424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91f4880e42f741b0800000000000000
+      internalID: -5672298788685549153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496e860d4ff95d700800000000000000
+      internalID: 564533202122237588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9787d8cb24464d30800000000000000
+      internalID: 4415291439527200671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_40
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df317adc55fc20a00800000000000000
+      internalID: 721366857762149373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccbdd460601ed2f0800000000000000
+      internalID: -946300865506067251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_42
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b012a850fc5f3430800000000000000
+      internalID: 3764830000853946545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 39
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3413166bb21b7ff0800000000000000
+      internalID: -37415575821806532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b5fac121380d0c0800000000000000
+      internalID: -4552995109457667228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a757b23d83e08ce80800000000000000
+      internalID: -8158255087757855366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 7
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907b184c93639be20800000000000000
+      internalID: 3366781818174027529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dce3f3494f04a250800000000000000
+      internalID: 5954901414637726930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_48
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74f49503d1134e40800000000000000
+      internalID: 5639370756427412606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 7
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ef93a9420dcd6c0800000000000000
+      internalID: -4117187103698584004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf Sprite Sheet-gold_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924602b4cc9e24da0800000000000000
+      internalID: -5961945893042101207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf Sprite Sheet-gold_0: -3525832149785424724
+      Dwarf Sprite Sheet-gold_1: 5508211372076336018
+      Dwarf Sprite Sheet-gold_10: 1004964429947114743
+      Dwarf Sprite Sheet-gold_11: -8011944451718606790
+      Dwarf Sprite Sheet-gold_12: -1958320513116584156
+      Dwarf Sprite Sheet-gold_13: 4609781159045886321
+      Dwarf Sprite Sheet-gold_14: -2523373093914182055
+      Dwarf Sprite Sheet-gold_15: 7088136526985533148
+      Dwarf Sprite Sheet-gold_16: 2836759372175060888
+      Dwarf Sprite Sheet-gold_17: 6853360939776320829
+      Dwarf Sprite Sheet-gold_18: -5783699767058771049
+      Dwarf Sprite Sheet-gold_19: 5777075767991663624
+      Dwarf Sprite Sheet-gold_2: -1647241421409984685
+      Dwarf Sprite Sheet-gold_20: -3656534284916760751
+      Dwarf Sprite Sheet-gold_21: -3066773781423565446
+      Dwarf Sprite Sheet-gold_22: 6141198495452134499
+      Dwarf Sprite Sheet-gold_23: -7441402858612966071
+      Dwarf Sprite Sheet-gold_24: 1752456117625071908
+      Dwarf Sprite Sheet-gold_25: 7134299680629836388
+      Dwarf Sprite Sheet-gold_26: -113018617715817109
+      Dwarf Sprite Sheet-gold_27: 3927746569304301256
+      Dwarf Sprite Sheet-gold_28: -262492072157555265
+      Dwarf Sprite Sheet-gold_29: -2612011992798671355
+      Dwarf Sprite Sheet-gold_3: -2285953604524798952
+      Dwarf Sprite Sheet-gold_30: -8185571136049159961
+      Dwarf Sprite Sheet-gold_31: -5339236874031775459
+      Dwarf Sprite Sheet-gold_32: 3961609007519311979
+      Dwarf Sprite Sheet-gold_33: 5871912254075100473
+      Dwarf Sprite Sheet-gold_34: -1311466646702746136
+      Dwarf Sprite Sheet-gold_35: -1193520080969030795
+      Dwarf Sprite Sheet-gold_36: 3301296929549119424
+      Dwarf Sprite Sheet-gold_37: -5672298788685549153
+      Dwarf Sprite Sheet-gold_38: 564533202122237588
+      Dwarf Sprite Sheet-gold_39: 4415291439527200671
+      Dwarf Sprite Sheet-gold_4: 8272074543478154902
+      Dwarf Sprite Sheet-gold_40: 721366857762149373
+      Dwarf Sprite Sheet-gold_41: -946300865506067251
+      Dwarf Sprite Sheet-gold_42: 3764830000853946545
+      Dwarf Sprite Sheet-gold_43: -37415575821806532
+      Dwarf Sprite Sheet-gold_44: -4552995109457667228
+      Dwarf Sprite Sheet-gold_45: -8158255087757855366
+      Dwarf Sprite Sheet-gold_46: 3366781818174027529
+      Dwarf Sprite Sheet-gold_47: 5954901414637726930
+      Dwarf Sprite Sheet-gold_48: 5639370756427412606
+      Dwarf Sprite Sheet-gold_49: -4117187103698584004
+      Dwarf Sprite Sheet-gold_5: 3740589969145744844
+      Dwarf Sprite Sheet-gold_50: -5961945893042101207
+      Dwarf Sprite Sheet-gold_6: -8459936200516458754
+      Dwarf Sprite Sheet-gold_7: -4366975070457367975
+      Dwarf Sprite Sheet-gold_8: 2838993292908068029
+      Dwarf Sprite Sheet-gold_9: 8868308300198840982
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

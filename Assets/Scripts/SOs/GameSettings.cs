@@ -10,6 +10,9 @@ public class GameSettings : ScriptableObject
     [SerializeField] private float jumpVelocity;
     public float JumpVelocity { get { return jumpVelocity; } }
 
+    [SerializeField] private float climbSpeed;
+    public float ClimbSpeed { get { return climbSpeed; } }
+
 
     [Header("Digging")]
     [SerializeField] private float blockSize;

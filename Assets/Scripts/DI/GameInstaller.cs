@@ -6,6 +6,7 @@ public class GameInstaller : MonoInstaller
 
     [SerializeField] private GameSettings _gameSettings;
     [SerializeField] private DiggingProcess _diggingProcess;
+    [SerializeField] private Inventory _inventory;
 
     //[Header("Audio")]
     //[SerializeField] private MusicManager _musicManager;
@@ -32,6 +33,11 @@ public class GameInstaller : MonoInstaller
         Container
             .Bind<DiggingProcess>()
             .FromInstance(_diggingProcess)
+            .AsSingle();
+
+        Container
+            .Bind<Inventory>()
+            .FromInstance(_inventory)
             .AsSingle();
     }
 
