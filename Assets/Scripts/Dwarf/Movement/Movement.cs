@@ -5,9 +5,13 @@ public class Movement
     private bool isGrounded;
     
 
-    public void Walk(Rigidbody2D rb, float walkVelocity)
+    public void Walk(Rigidbody2D rb, float walkVelocity, SpriteRenderer sr)
     {
         rb.linearVelocityX = walkVelocity;
+        if (walkVelocity > 0)
+            sr.flipX = false;
+        else if (walkVelocity < 0)
+            sr.flipX = true;
     }
 
 

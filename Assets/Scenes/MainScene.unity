@@ -1210,6 +1210,11 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!212 &1872689714 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 5572394126634977692, guid: 58115b5be98f72947ba164194bfc0a28, type: 3}
+  m_PrefabInstance: {fileID: 4444510976852526532}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1874201599
 GameObject:
   m_ObjectHideFlags: 0
@@ -2072,6 +2077,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 323981316228774808, guid: 58115b5be98f72947ba164194bfc0a28, type: 3}
+      propertyPath: _sr
+      value: 
+      objectReference: {fileID: 1872689714}
     - target: {fileID: 323981316228774808, guid: 58115b5be98f72947ba164194bfc0a28, type: 3}
       propertyPath: _digClip
       value: 

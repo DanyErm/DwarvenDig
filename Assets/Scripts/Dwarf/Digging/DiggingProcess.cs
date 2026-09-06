@@ -18,7 +18,7 @@ public class DiggingProcess : MonoBehaviour
 
 
     private Collider2D _collider;
-    //private int _blockId;
+
     private BlockState _blockState;
 
     private Vector2[] orthogonalDirections = {

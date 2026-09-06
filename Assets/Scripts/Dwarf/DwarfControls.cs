@@ -10,6 +10,7 @@ public class DwarfControls : MonoBehaviour
     [SerializeField] private LayerMask _groundLayer;
     [SerializeField] private Animator _dwarfAnimator;
     [SerializeField] private AnimationClip _digClip;
+    [SerializeField] private SpriteRenderer _sr;
 
     [Inject] private GameSettings _gameSettings;
     [Inject] private DiggingProcess _diggingProcess;
@@ -26,16 +27,10 @@ public class DwarfControls : MonoBehaviour
     }
 
 
-    private void Start()
-    {
-        if (_movement == null)
-            Debug.LogWarning("_movement = null");
-    }
-
 
     void FixedUpdate()
     {
-        _movement.Walk(_rb, Input.GetAxis("Horizontal") * _gameSettings.WalkSpeed);
+        _movement.Walk(_rb, Input.GetAxis("Horizontal") * _gameSettings.WalkSpeed, _sr);
     }
 
 
@@ -54,7 +49,7 @@ public class DwarfControls : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0))
         {
-
+            DigWithDelay();
         }
     }
 
@@ -65,11 +60,11 @@ public class DwarfControls : MonoBehaviour
     }
 
 
-    private IEnumerator DigWithDelay()
+    private void DigWithDelay()
     {
         Vector2 directionFromCharToMouse = (GetMousePos() - _rb.position).normalized;
-        _dwarfAnimator.Play("Attack1Anim");
-        yield return new WaitForSeconds(_digClip.length);
+        //_dwarfAnimator.Play("Attack1Anim");
+        //yield return new WaitForSeconds(_digClip.length);
         _diggingProcess.Dig(_rb.position, directionFromCharToMouse);
     }
 }
