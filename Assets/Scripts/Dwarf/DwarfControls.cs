@@ -27,7 +27,6 @@ public class DwarfControls : MonoBehaviour
     }
 
 
-
     void FixedUpdate()
     {
         _movement.Walk(_rb, Input.GetAxis("Horizontal") * _gameSettings.WalkSpeed, _sr);
